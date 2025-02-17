@@ -25,11 +25,14 @@ author: Israa Ezeldin
 ###############################################
 
 navbar-links:
+
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
+  Author's home: "http://deanattali.com"
+
 
 ################
 # --- Logo --- #
